@@ -5,6 +5,7 @@ scipy==1.10.1
 sounddevice==0.4.4
 speechrecognition==3.9.0
 fpdf==1.7.2
+streamlit==1.39.0
 langchain
 langchain_community
 huggingface_hub
